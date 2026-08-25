@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Computer Science Specialising in AI. Pre-Law, hates AI but use it either way to save my tears and suffering. Sorrows, sorrows, prayers.
+Computer Science Specializing in AI. Pre-Law, hates AI but use it either way to save my tears and suffering. Sorrows, sorrows, prayers.
 
 🔭 &nbsp;I'm currently working on **Building my Portfolio**  
 🌱 &nbsp;I'm currently learning **PYTHON, JAVA**  
